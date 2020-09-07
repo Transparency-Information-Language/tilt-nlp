@@ -1,0 +1,2 @@
+{"label":"URL","pattern":[{"LIKE_URL":true}]}
+{"label":"EMAIL","pattern":[{"LIKE_EMAIL":true}]}
