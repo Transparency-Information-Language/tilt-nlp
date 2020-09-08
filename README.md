@@ -13,7 +13,7 @@ Experimental Natural Language Processing on Privacy Policies for Import to Trans
 ---
 - syntax-tree-visualizer.py **Syntax tree visualizer standalone**
 - single-tree.svg **Examplary syntax tree**
-- single-tree.pdf **Examplayry syntax tree**
+- single-tree.pdf **Examplary syntax tree**
 ---
 - media/ **archived main experiments and drafts**
 
