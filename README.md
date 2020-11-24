@@ -21,7 +21,7 @@ Experimental Natural Language Processing on Privacy Policies for Import to Trans
 Elias Grünewald
 
 ## License
-General Public License v3
+[MIT License](LICENSE)
 
 
 ---
